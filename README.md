@@ -14,8 +14,7 @@ This application reads printed Chessboards from photos and return the FEN coding
 
 
 **Use guide:**
-
-> - Maintain the folders stucture.
-> - In MatLab, for a demo, read the images from the folder Dataset.
-> - In MatLab, to run the application enter in the "Code" folder.
-> - Enter this command in the console: read_chessboard([image]);
+- Maintain the folders stucture.
+- In MatLab, for a demo, read the images from the folder Dataset.
+- In MatLab, to run the application enter in the "Code" folder.
+- Enter this command in the console: read_chessboard([image]);
