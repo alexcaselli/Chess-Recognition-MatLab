@@ -6,7 +6,7 @@ This application reads printed Chessboards from photos and return the FEN coding
 
 **Output**: FEN codification
 
-**Accuracy** on 43 test images: **89%
+**Accuracy** on 43 test images: **89%**
 
 > For chess pieces recognition are used templates stored in "Code/templates" folder
 
